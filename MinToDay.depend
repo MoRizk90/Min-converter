@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563876935 source:e:\development_project\c\training\mintoday\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
